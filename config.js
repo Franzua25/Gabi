@@ -12,25 +12,25 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['56954390663', 'GeriPium', true],  
-  ['51955095498', 'Jair Owner', true],
-  ['51933348947', 'Jair Owner 2', true],
-  ['56954390663', 'GeriPium', true],
-  ['51955095498'],
-  ['51955095498'],
-  ['51955095498'],
-  ['51955095498'],
-  ['51933348947'],
-  ['51933348947'],
-  ['51933348947'],
-  ['51933348947'],
-  ['51933348947']
+  ['59897463355', 'TheZero', true],  
+  ['59897463355', 'Gabi Owner', true],
+  ['59897463355', 'Gabi Owner 2', true],
+  ['59897463355', 'TheZero', true],
+  ['59897463355'],
+  ['59897463355'],
+  ['59897463355'],
+  ['59897463355'],
+  ['59897463355'],
+  ['59897463355'],
+  ['59897463355'],
+  ['59897463355'],
+  ['59897463355']
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['51955095498'] 
+global.prems = ['59897463355'] 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -102,19 +102,19 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['56954390663', 'GeriPium', 1], 
-['56954390663', 'GeriPium', 1],  
-['56954390663', 'GeriPium', 1],
-['56954390663', 'GeriPium', 1],
-['56954390663', 'GeriPium', 1]] 
+['59897463355', 'TheZero', 1], 
+['59897463355', 'TheZero', 1],  
+['59897463355', 'TheZero', 1],
+['59897463355', 'TheZero', 1],
+['59897463355', 'TheZero', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = 'GeriPium'
-global.author = 'GeriPium'
+global.packname = 'TheZero'
+global.author = 'TheZero'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -122,9 +122,9 @@ global.vs = '1.4.9'
 global.vsJB = '2.0'
 
 global.gt = 'GeriPium'
-global.yt = 'https://www.instagram.com/venta.bots.gerixryu'
-global.yt2 = 'https://www.instagram.com/venta.bots.gerixryu'
-global.ig = 'https://www.instagram.com/venta.bots.gerixryu'
+global.yt = 'https://instagram.com/emx._xit'
+global.yt2 = 'https://instagram.com/emx._xit'
+global.ig = 'https://instagram.com/emx._xit'
 global.md = 'https://www.instagram.com/venta.bots.gerixryu'
 global.fb = 'https://www.instagram.com/venta.bots.gerixryu'
 
