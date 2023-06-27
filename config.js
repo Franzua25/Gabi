@@ -121,26 +121,26 @@ global.author = 'TheZero'
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = 'GeriPium'
-global.yt = 'https://instagram.com/emx._xit'
-global.yt2 = 'https://instagram.com/emx._xit'
-global.ig = 'https://instagram.com/emx._xit'
-global.md = 'https://www.instagram.com/venta.bots.gerixryu'
-global.fb = 'https://www.instagram.com/venta.bots.gerixryu'
+global.gt = 'TheZero'
+global.yt = 'https://www.instagram.com/emx._xit'
+global.yt2 = 'https://www.instagram.com/emx._xit'
+global.ig = 'https://www.instagram.com/emx._xit
+global.md = 'https://www.instagram.com/emx._xit'
+global.fb = 'https://www.instagram.com/emx._xit'
 
-global.nna = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Help
-global.nn = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/FNtD1vGHoFrHdD0tZPJdSt' //Grupo 9 COL
-global.paypal = 'https://paypal.me/ventabotsgerixryu'
-global.asistencia = 'Wa.me/51955095498' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Help
+global.nn = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/K73UUURJlBz6cOUZ2h62RB' //Grupo 9 COL
+global.paypal = 'https://paypal.me/Emersonbot'
+global.asistencia = 'Wa.me/59897463355' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -174,13 +174,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'GeriPium'
-global.igfg = '@venta.bots.gerixryu'
+global.wm = 'TheZero'
+global.igfg = '@emx._xit'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '56954390663'
+global.nomorown = '59897463355'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
